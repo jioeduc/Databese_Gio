@@ -1,0 +1,51 @@
+ID_Mahasiswa,Nama_Mahasiswa,NIM,Angkatan,Prodi,ID_MataKuliah,Nama_MK,SKS,ID_Dosen,Nama_Dosen,NIDN,Semester,Hari,Jam,Tugas,UTS,UAS,Nilai_Akhir
+M001,Dina,120001,2023,Sains Data,MK001,Basis Data,3,D003,Dr. Budi,10362,5,Rabu,15:00,94,94,78,87.6
+M002,Indra,120002,2022,Sistem Informasi,MK002,Algoritma,4,D004,Dr. Sari,10650,2,Rabu,13:00,88,85,78,83.1
+M003,Hani,120003,2024,Informatika,MK004,Matematika Diskrit,3,D005,Dr. Doni,10813,3,Selasa,10:00,95,72,81,82.5
+M004,Gita,120004,2024,Sains Data,MK003,Kecerdasan Buatan,3,D001,Dr. Andi,10496,1,Senin,08:00,70,94,91,85.6
+M005,Gita,120005,2022,Informatika,MK004,Matematika Diskrit,3,D004,Dr. Sari,10215,5,Selasa,08:00,93,97,99,96.6
+M006,Indra,120006,2024,Sistem Informasi,MK001,Basis Data,3,D004,Dr. Sari,10544,3,Senin,15:00,84,92,80,84.8
+M007,Fajar,120007,2022,Sistem Informasi,MK003,Kecerdasan Buatan,3,D004,Dr. Sari,10984,1,Rabu,13:00,87,83,84,84.6
+M008,Hani,120008,2022,Informatika,MK001,Basis Data,3,D005,Dr. Doni,10774,3,Rabu,13:00,77,95,77,82.4
+M009,Eko,120009,2023,Informatika,MK001,Basis Data,3,D003,Dr. Budi,10942,2,Senin,15:00,81,73,78,77.4
+M010,Fajar,120010,2023,Sistem Informasi,MK002,Algoritma,4,D005,Dr. Doni,10350,5,Senin,15:00,80,72,77,76.4
+M011,Hani,120011,2022,Informatika,MK003,Kecerdasan Buatan,3,D001,Dr. Andi,10353,2,Jumat,10:00,90,75,72,78.3
+M012,Fajar,120012,2022,Sains Data,MK004,Matematika Diskrit,3,D001,Dr. Andi,10941,3,Selasa,15:00,89,72,100,88.3
+M013,Fajar,120013,2024,Informatika,MK004,Matematika Diskrit,3,D003,Dr. Budi,10761,2,Senin,10:00,76,87,98,88.1
+M014,Aldi,120014,2024,Sains Data,MK002,Algoritma,4,D003,Dr. Budi,10448,2,Senin,10:00,74,95,89,86.3
+M015,Joko,120015,2023,Informatika,MK001,Basis Data,3,D001,Dr. Andi,10419,3,Rabu,15:00,75,86,71,76.7
+M016,Budi,120016,2022,Informatika,MK005,Jaringan Komputer,3,D001,Dr. Andi,10636,1,Rabu,15:00,78,89,83,83.3
+M017,Citra,120017,2023,Informatika,MK001,Basis Data,3,D003,Dr. Budi,10376,5,Rabu,13:00,73,99,75,81.6
+M018,Gita,120018,2024,Informatika,MK003,Kecerdasan Buatan,3,D002,Dr. Rina,10898,2,Rabu,13:00,94,84,72,82.2
+M019,Citra,120019,2022,Sains Data,MK002,Algoritma,4,D004,Dr. Sari,10920,4,Kamis,10:00,78,88,80,81.8
+M020,Hani,120020,2023,Sistem Informasi,MK002,Algoritma,4,D002,Dr. Rina,10544,3,Rabu,10:00,83,88,83,84.5
+M021,Joko,120021,2024,Sistem Informasi,MK002,Algoritma,4,D004,Dr. Sari,10833,1,Rabu,08:00,78,98,83,86.0
+M022,Eko,120022,2024,Sistem Informasi,MK004,Matematika Diskrit,3,D005,Dr. Doni,10894,4,Jumat,10:00,94,98,88,92.8
+M023,Gita,120023,2023,Sistem Informasi,MK001,Basis Data,3,D003,Dr. Budi,10121,3,Selasa,13:00,78,82,71,76.4
+M024,Eko,120024,2024,Informatika,MK005,Jaringan Komputer,3,D002,Dr. Rina,10849,5,Rabu,15:00,72,87,76,78.1
+M025,Gita,120025,2023,Informatika,MK003,Kecerdasan Buatan,3,D004,Dr. Sari,10943,2,Jumat,13:00,81,76,96,85.5
+M026,Eko,120026,2024,Sains Data,MK001,Basis Data,3,D004,Dr. Sari,10879,1,Rabu,08:00,73,96,89,86.3
+M027,Joko,120027,2023,Sistem Informasi,MK003,Kecerdasan Buatan,3,D005,Dr. Doni,10404,1,Kamis,08:00,75,77,80,77.6
+M028,Eko,120028,2024,Informatika,MK005,Jaringan Komputer,3,D003,Dr. Budi,10669,5,Kamis,10:00,79,86,87,84.3
+M029,Joko,120029,2023,Informatika,MK002,Algoritma,4,D001,Dr. Andi,10262,3,Kamis,15:00,95,79,93,89.4
+M030,Hani,120030,2024,Sains Data,MK005,Jaringan Komputer,3,D003,Dr. Budi,10363,4,Kamis,10:00,100,86,99,95.4
+M031,Citra,120031,2022,Sistem Informasi,MK005,Jaringan Komputer,3,D005,Dr. Doni,10726,5,Rabu,13:00,80,86,72,78.6
+M032,Citra,120032,2022,Informatika,MK005,Jaringan Komputer,3,D003,Dr. Budi,10651,1,Kamis,15:00,97,91,93,93.6
+M033,Citra,120033,2024,Informatika,MK004,Matematika Diskrit,3,D005,Dr. Doni,10627,1,Senin,15:00,79,89,86,84.8
+M034,Fajar,120034,2023,Sains Data,MK003,Kecerdasan Buatan,3,D005,Dr. Doni,10356,1,Rabu,15:00,82,75,88,82.3
+M035,Indra,120035,2022,Sistem Informasi,MK005,Jaringan Komputer,3,D001,Dr. Andi,10938,5,Kamis,15:00,97,96,74,87.5
+M036,Dina,120036,2023,Sains Data,MK005,Jaringan Komputer,3,D004,Dr. Sari,10904,5,Senin,15:00,79,100,87,88.5
+M037,Joko,120037,2024,Sains Data,MK004,Matematika Diskrit,3,D003,Dr. Budi,10894,4,Kamis,15:00,88,88,100,92.8
+M038,Dina,120038,2024,Sistem Informasi,MK001,Basis Data,3,D004,Dr. Sari,10805,4,Kamis,10:00,99,81,94,91.6
+M039,Eko,120039,2022,Sains Data,MK003,Kecerdasan Buatan,3,D005,Dr. Doni,10845,4,Jumat,13:00,79,72,83,78.5
+M040,Hani,120040,2022,Sains Data,MK003,Kecerdasan Buatan,3,D003,Dr. Budi,10670,3,Kamis,13:00,79,81,79,79.6
+M041,Aldi,120041,2024,Sistem Informasi,MK004,Matematika Diskrit,3,D003,Dr. Budi,10966,4,Jumat,10:00,100,77,98,92.3
+M042,Indra,120042,2024,Informatika,MK003,Kecerdasan Buatan,3,D001,Dr. Andi,10227,2,Senin,13:00,74,87,75,78.3
+M043,Dina,120043,2024,Sistem Informasi,MK004,Matematika Diskrit,3,D004,Dr. Sari,10254,4,Kamis,10:00,84,99,96,93.3
+M044,Gita,120044,2023,Sistem Informasi,MK001,Basis Data,3,D001,Dr. Andi,10353,5,Senin,08:00,84,75,89,83.3
+M045,Citra,120045,2023,Sains Data,MK002,Algoritma,4,D004,Dr. Sari,10187,4,Jumat,08:00,86,82,73,79.6
+M046,Indra,120046,2023,Sains Data,MK004,Matematika Diskrit,3,D005,Dr. Doni,10728,3,Senin,10:00,72,85,88,82.3
+M047,Fajar,120047,2022,Sistem Informasi,MK003,Kecerdasan Buatan,3,D001,Dr. Andi,10975,2,Senin,10:00,75,84,87,82.5
+M048,Budi,120048,2022,Sains Data,MK001,Basis Data,3,D004,Dr. Sari,10987,5,Kamis,13:00,90,94,100,95.2
+M049,Fajar,120049,2022,Sains Data,MK003,Kecerdasan Buatan,3,D003,Dr. Budi,10937,2,Selasa,15:00,90,88,72,82.2
+M050,Indra,120050,2022,Sistem Informasi,MK005,Jaringan Komputer,3,D002,Dr. Rina,10145,5,Senin,13:00,70,77,99,83.7
